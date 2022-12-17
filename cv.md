@@ -23,25 +23,25 @@ I'm interested in front-end development. I am grateful to RS School for help at 
 
 ### Code Example
 
-'''
-<style>
-  .block {
-    width: 70px;
-    height: 60px;
-    background-color: rgba(255, 0, 0, 0.5);
-    color: #fff;
-    padding: 10px;
-    margin: 10px;
-    border: 2px solid #f00;
-    font-size: 20px;
-    text-align:center;
-  }
-</style>
-
-<div class="block">
-  <p>Hello</p>
-</div>
-'''
+```
+$<style>
+$  .block {
+$    width: 70px;
+$    height: 60px;
+$    background-color: rgba(255, 0, 0, 0.5);
+$    color: #fff;
+$    padding: 10px;
+$    margin: 10px;
+$    border: 2px solid #f00;
+$    font-size: 20px;
+$    text-align:center;
+$  }
+$</style>
+$
+$<div class="block">
+$  <p>Hello</p>
+$</div>
+```
 
 ### Education
 
